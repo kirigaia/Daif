@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="5" extheight="448" extwidth="704" extx="-32" exty="-32" format="3.2.0" gravx="-0.0" gravy="275.0" height="384" id="0" name="paff" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <grad-bg b1="102" b2="255" g1="51" g2="204" r1="0" r2="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="2" c="false" group="0" id="2" name="Pronger 2" sx="1.0" sy="1.0" x="294" y="317" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="0" id="0" name="Mambo 5" sx="1.0" sy="1.0" x="35" y="271" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="7">
+            <prop id="1" list="0" val="-1"/>
+            <prop id="2" list="0" val="2"/>
+            <prop id="4" list="0" val="-1"/>
+            <prop id="7" list="0" val="false"/>
+            <prop id="8" list="0" val="false"/>
+            <prop id="9" list="0" val="No Control"/>
+            <prop id="10" list="0" val="0.5"/>
+            <prop id="11" list="0" val="0.5"/>
+            <prop id="12" list="0" val="Slide Left"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="12,96.0,192.0,96.0,64.0,0.0,64.0,0.0,32.0,32.0,32.0,32.0,0.0,128.0,0.0,128.0,160.0,224.0,160.0,224.0,128.0,256.0,128.0,256.0,192.0" x="384.0" y="192.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="608.0" y="224.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="544.0" y="256.0"/>
+        <p pts="16,96.0,320.0,96.0,224.0,128.0,224.0,128.0,352.0,224.0,352.0,224.0,320.0,256.0,320.0,256.0,352.0,352.0,352.0,352.0,384.0,0.0,384.0,0.0,0.0,32.0,0.0,32.0,352.0,64.0,352.0,64.0,320.0" x="0.0" y="0.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

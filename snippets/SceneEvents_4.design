@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-actor-region comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <scene-reload-through comment="false" x="26" y="42">
+                    <int id="0" val="0"/>
+                    <int id="1" val=".25"/>
+                </scene-reload-through>
+            </group>
+            <int id="0" val="0"/>
+            <REGION eid="0" id="1"/>
+            <ACTOR eid="1" id="2"/>
+        </event-actor-region>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <event-actor-region comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <scene-reload-through comment="false" x="26" y="42">
+                    <int id="0" val="0"/>
+                    <int id="1" val=".25"/>
+                </scene-reload-through>
+            </group>
+            <int id="0" val="0"/>
+            <REGION eid="1" id="1"/>
+            <ACTOR eid="1" id="2"/>
+        </event-actor-region>
+    </group>
+    <group eventID="2" id="-1"/>
+    <group eventID="3" id="0">
+        <event-actor-region comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <scene-reload-through comment="false" x="26" y="42">
+                    <int id="0" val="0"/>
+                    <int id="1" val=".25"/>
+                </scene-reload-through>
+            </group>
+            <int id="0" val="0"/>
+            <REGION eid="2" id="1"/>
+            <ACTOR eid="1" id="2"/>
+        </event-actor-region>
+    </group>
+    <group eventID="3" id="-1"/>
+</groups>
